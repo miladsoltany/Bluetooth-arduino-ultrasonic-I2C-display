@@ -4,7 +4,7 @@ We did this project a long time ago, but I didn't have github then =)
 
 @Soltany.m.99@gmail.com 
 @Amirhossein477@gmail.com
-Amie Zahdei
+Amir Zahdei
 
 A simple pet-project, I2C display+Bluetooth Sonar
 We try to find the distance of an object using an ultrasonic sensor connected to an Arduino board, and showing the results both on an I2C display and sending it through the serial communication protocol using an HC 06 bluetooth sensor.
